@@ -2,7 +2,7 @@
 
 This repository contains 33 mini projects covering a diverse range of machine learning models and data processing techniques. The primary goal is to gain hands-on experience by implementing various machine learning algorithms, working with real-world datasets, and understanding fundamental data processing techniques.
 
-I have leveraged resources such as YouTube tutorials, online courses, and Kaggle datasets to build and train these models. One of the projects also incorporates a Kaggle dataset (`train.csv`) for training and evaluation.
+I have leveraged resources such as YouTube tutorials, online courses, and Kaggle datasets to build and train these models. One of the projects also incorporates a Kaggle datasets for training and evaluation.
 
 ---
 
@@ -18,7 +18,7 @@ The key areas covered include:
 4. **Boosting Models**
 5. **Support Vector Machines (SVM)**
 6. **Deep Learning**
-7. **Supervised, Unsupervised, and Semi-Supervised Learning**
+7. **Supervised, Unsupervised, and Semi-Supervised Learning** and so on
 
 ---
 
@@ -96,9 +96,4 @@ This project will continue to evolve as I explore and implement more advanced ma
 
 ### **Resources Used**
 - **YouTube Tutorials** – For understanding ML concepts and implementations.
-- **Kaggle** – For datasets and project challenges.
-- **Online Courses & Documentation** – To deepen theoretical and practical knowledge.
-
----
-
-This README now clearly explains your 15 mini projects, covering the models you’ve implemented and their significance. Let me know if you need any modifications or additions! 🚀
+- **Kaggle** – For datasets.
