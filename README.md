@@ -1,6 +1,6 @@
 # **Machine Learning Mini Projects - All Models**
 
-This repository contains 15 mini projects covering a diverse range of machine learning models and data processing techniques. The primary goal is to gain hands-on experience by implementing various machine learning algorithms, working with real-world datasets, and understanding fundamental data processing techniques.
+This repository contains 33 mini projects covering a diverse range of machine learning models and data processing techniques. The primary goal is to gain hands-on experience by implementing various machine learning algorithms, working with real-world datasets, and understanding fundamental data processing techniques.
 
 I have leveraged resources such as YouTube tutorials, online courses, and Kaggle datasets to build and train these models. One of the projects also incorporates a Kaggle dataset (`train.csv`) for training and evaluation.
 
