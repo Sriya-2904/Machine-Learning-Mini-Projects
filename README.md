@@ -1,4 +1,4 @@
-# Machine Learning Mini Project - All Models
+# Machine Learning Mini Projects - All Models
 
 This project contains various machine learning models and data processing techniques I have implemented as part of my practice and training. The goal of this project is to learn and apply different machine learning algorithms to datasets and understand the fundamentals of data processing.
 
